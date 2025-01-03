@@ -12,11 +12,11 @@
 
 <h2>👨‍💻 Featured Projects:</h2>
 
-- <b>**Cybersecurity Incident Response Automation** 
-  -Description: Automated security detection using Powershell and Python scripts.
+- <b>**Cybersecurity Incident Response Lab Project: Monitoring Logs with a SIEM Tool in Kali Linux** 
+  -Security Event Monitoring with Elastic Stack (ELK) on Kali Linux.
   -
 - <b>**ServiceNOW**</b>
-  -Description: Customized ServiceNow workflows for ticketing and incident management.
+  -Customized ServiceNow workflows for ticketing and incident management.
   - 
 - <b>**Azure Identity Management**</b>
   -Implemented Azure Active Directory and Identity Protection policies.
@@ -32,11 +32,5 @@
 - 
 
 <h2> 🤳 Connect with me:</h2>
-
-(https://www.youtube.com/@CyberOpsCipherQueen)" />][youtube]
-(https://www.linkedin.com/in/candace-r-54550195/)" />][linkedin]
-
-
-
 [youtube]: www.youtube.com/@CyberOpsCipherQueen
 [linkedin]:(https://www.linkedin.com/in/candace-r-54550195/)
