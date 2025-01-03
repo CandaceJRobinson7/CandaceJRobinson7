@@ -33,8 +33,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Candace Robinson | (https://www.youtube.com/@CyberOpsCipherQueen)" />][youtube]
-[<img align="left" alt="Candace Robinson | (https://www.linkedin.com/in/candace-r-54550195/)" />][linkedin]
+"Candace Robinson | (https://www.youtube.com/@CyberOpsCipherQueen)" />][youtube]
+"Candace Robinson | (https://www.linkedin.com/in/candace-r-54550195/)" />][linkedin]
 
 
 
