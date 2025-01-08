@@ -8,7 +8,7 @@
 
 -**GRC**: Skilled in automating GRC processes, policy development, and risk assessment to enhance organizational security posture. 
 
--**Data Analytics**: Pursuing a Master's in Data Engineering and building automation projects. </a>
+-**Data Analytics**: A data engineering enthusiast, I'm actively building automation solutions to optimize workflows and ensure robust scalable data pipelines for businesses. </a>
 
 <h2>👨‍💻 Featured Projects:</h2>
 
