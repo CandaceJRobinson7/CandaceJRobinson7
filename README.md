@@ -33,4 +33,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 [youtube]: www.youtube.com/@CyberOpsCipherQueen
-[linkedin]:(https://www.linkedin.com/in/candace-r-54550195/)
+[linkedin]:(https://www.linkedin.com/in/candace-robinson1/)
