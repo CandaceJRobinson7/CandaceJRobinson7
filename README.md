@@ -1,6 +1,6 @@
 <h1>Hi, I'm Candace! <br/><a"> IT professional with an expertise in Cybersecurity, IAM, Governance, Risk, and Compliance (GRC), and Data Analytics. I have a proven background in:
   
--**Technical support**: 5+ years of experience resolving complex IT issues.
+-**Technical support**: 6+ years of experience resolving complex IT issues.
 
 -**Cybersecuirty**: CompTIA Security+ certified and currently preparing Azure SC-300 certification.
 
